@@ -1,0 +1,17 @@
+.button-primary {
+  background-color: #d2691e;
+  color: #FFF;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+  width: 100%;
+}
+
+.button-primary:hover {
+  background-color: #FFF;
+  color: #d2691e;
+  border: solid 1px #d2691e;
+}
